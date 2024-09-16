@@ -169,6 +169,13 @@ Alk'q yb xcoxfa ql cxfi yfd, ql aobxj yfd, yrq objbjybo aobxjp tfqelrq dlxip xob
 Abkwbi Texpefkdqlk
 ```
 
+### 🔐 Challenge 13 - History
+
+If you fork, clone and log the git history of this repository, you can notice a typo. 
+
+Describe how to fix it with git.
+
+![Challenge 13](./img/history.png)
 
 ### ⁉️ Last challenge - White screen
 
