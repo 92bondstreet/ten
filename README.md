@@ -22,7 +22,7 @@
   - [📺 Challenge 9 - Bash](#-challenge-9---bash)
   - [📍 Challenge 10 - Where is it?](#-challenge-10---where-is-it)
   - [🚀 Challenge 11 - Saturn V](#-challenge-11---saturn-v)
-  - [🏘 Challenge 12 - Run this town](#%F0%9F%8F%98-challenge-12---run-this-town)
+  - [🔐 Challenge 12 - Decode](#-challenge-12---decode)
   - [⁉️ Last challenge - White screen](#-last-challenge---white-screen)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -48,19 +48,21 @@ Create a page called `Ten Challenges`
 
 ### 🥾 Challenge 1 - Panafrica
 
-Open the link [https://panafrica-store.com/produit/panafrica-arusha-ocean-chaussures-colorees-wax-suede-responsables-consignee-ethique-2/](https://panafrica-store.com/produit/panafrica-arusha-ocean-chaussures-colorees-wax-suede-responsables-consignee-ethique-2/) in your browser and **take a screenshot of the ARUSHA-OCÉAN model complete page**.
+Open the link [https://panafrica-store.com/products/arusha-ocean](https://panafrica-store.com/products/arusha-ocean) in your browser and **take a screenshot of the ARUSHA-OCÉAN model complete page**.
 
 ![Challenge 1](./img/arusha.png)
 
 ### 📱 Challenge 2 - Wow
 
-Give me **a link and a screenshot of a website that has surprised you in terms of User Experience** (avoid Facebook, Snapchat etc...).
+Give me **3 different links with a screenshot of a website that has surprised you in terms of User Experience** (avoid Facebook, Snapchat etc...).
 
 An impressive User Experience is new, unusual, clear and easy to use.
 
 ### 🎤 Challenge 3 - Tagline
 
-**Write a (english) Tagline (catchline) to tell us about your 2022 year**.
+You're the UX Designer of a sneakers brand made from Biomaterials.
+
+**Write the (english) Tagline (catchline) of the homepage**.
 
 A tagline should be:
 
@@ -167,9 +169,6 @@ Alk'q yb xcoxfa ql cxfi yfd, ql aobxj yfd, yrq objbjybo aobxjp tfqelrq dlxip xob
 Abkwbi Texpefkdqlk
 ```
 
-### 🏘 Challenge 13 - Run this town
-
-Give me **the 5 cities of the Yvelines (78) which have [the most best High School (lycées)](https://www.letudiant.fr/palmares/classement-lycees/academie-versailles.html)**.
 
 ### ⁉️ Last challenge - White screen
 
