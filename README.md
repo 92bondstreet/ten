@@ -86,7 +86,7 @@ Write the **size (MB on disk) and dimension (pixel)** of the cat image from the 
 
 Give me the **original url** from which this image was downloaded 👇🏽
 
-![Challenge 5](./img/TOGETHERWESTAND.jpg)
+![Challenge 5](./img/pionnier.jpg)
 
 ### 💳 Challenge 6 - E-shop
 
@@ -134,7 +134,7 @@ And no. The correct screenshot is not this following one ⤵️
 ### 📺 Challenge 9 - Bash
 
 Write a bash script to open your default browser with 2 tabs:
-1. The first tab with the following address: [https://github.com/92bondstreet/javascript-empire](https://github.com/92bondstreet/javascript-empire)
+1. The first tab with the following address: [https://github.com/92bondstreet/inception](https://github.com/92bondstreet/inception)
 2. The second tab with the following address: [https://www.google.fr](https://www.google.fr)
 
 ```bash
